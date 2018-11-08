@@ -1,0 +1,420 @@
+body, html {
+    height: 100%;
+    line-height: 1.8;
+    font-family: 'muli', sans-serif !important;
+    font-weight: 400!important;
+    height: 5500px;
+    color: black;
+}
+h1, h2, h3, h4, h5 {
+  font-family: 'Raleway' !important;
+}
+
+.worldbody, .artone h2, .mithirbloc, .mirkwood, .sportsbody {
+  position: absolute;
+}
+.w3-navbar li a:hover, .w3-navbar li a {
+  color: #8B1E3F;
+  background-color: transparent;
+}
+.w3-col.m8, .w3-twothird , .w3-content, .overlay {
+  width:100%
+}
+.legolas, .w3-navbar li a, .greenwood {
+  margin:auto;
+}
+.mithirimg, .pictwo, mithirtext, .rohir, .hrothgar, .worldhead, .picone, .spicone, .tpicone, .apicone, .sportsbody{
+  float:left;
+}
+
+.w3-navbar {
+  height:100px;
+  background: white;
+}
+.subtitle {
+  color: black;
+  margin-top:-53px;
+}
+.w3-navbar li a {
+  font-size: 50px;
+}
+.container {
+  width: 70%;
+}
+.w3-padding-64 {
+  padding-bottom: 64px!important;
+}
+.w3-content {
+  margin: 0px;
+}
+.legolas{
+  background:#8B1E3F;
+  width:80%;
+  height:105px;
+}
+.mithirimg {
+  width: 70%;
+  height: 350px;
+  overflow: hidden;
+  margin-right: 3%;
+}
+.mithirimg img {
+  width: 981px;
+  height: 552px;
+  margin: -35px 0 0 -100px;
+}
+.mithirtext {
+  width: 27%;
+  margin-left: 10px;
+  height: 350px;
+  overflow: hidden;
+}
+.mithirtext h1 {
+  font-weight: 800;
+  font-size: 35px!important;
+  color: #8B1E3F;
+}
+.mithirbloc{
+  height: 35px;
+  width: 200px;
+  background-color: #8B1E3F;
+  margin-top: -35px;
+  font-size: 15px!important;
+  padding-top: 7px;
+  text-transform: uppercase;
+  color: white;
+  padding-left: 40px;
+}
+.greenwood {
+  width: 80%;
+}
+.w3-wide {letter-spacing: 10px;}
+.w3-hover-opacity {cursor: pointer;}
+.great {
+  width: 100px;
+  height: 100px;
+  float: right;
+  margin-top: -70px;
+  background-color: #DCDCDC;
+}
+.great hr {
+  margin: 15px 25px 0px 31px;
+  padding: 0 0 0 0;
+  border-top: 2px white solid;
+}
+.opherion {
+  width: 100%;
+}
+.opherion img {
+  padding-top: 30px;
+  width: 60%;
+  margin-left: 200px;
+}
+.rohan {
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 70px;
+}
+.rohir {
+  width: 48%;
+  height: 350px;
+  overflow: hidden;
+  margin-right:1%;
+}
+.rohir img {
+  width: 2950;
+  height: 2260;
+}
+.rohir p {
+  position: absolute;
+  font-size: 38px;
+  margin-top: -394px;
+  margin-left: 302px;
+  text-align: right;
+  width: 250px;
+  font-weight: 700;
+  color: white;
+}
+.hrothgar {
+  width: 48%;
+  height: 350px;
+  overflow: hidden;
+  margin-left: 1%;
+}
+.hrothgar img {
+  width: 2950;
+  height: 2260;
+  margin: -75px 0 0 -100px;
+  padding:20px;
+}
+.hrothgar p {
+  position: absolute;
+  font-size: 38px;
+  margin-top: -530px;
+  margin-left: 282px;
+  text-align: right;
+  width: 270px;
+  font-weight: 700;
+  color: white;
+}
+.mirkwood {
+  width: 70%;
+  margin-top: 350px;
+}
+.thranduil {
+  margin-bottom: 50px;
+}
+.worldhead, .sportshead, .techhead, .businesshead {
+  width:800px;
+  height: 450px;
+  overflow: hidden;
+  background-size: 800px;
+}
+.worldhead h1, .sportshead h1, .techhead h1, .businesshead h1{
+  text-align:center;
+  margin-top: 130px;
+  font-size: 50px;
+  color: white;
+}
+.worldbody, .sportsbody, .techbody, .businessbody{
+  width:750px;
+  margin-left:25px;
+  height:600px;
+  background: #DCDCDC;
+  border-top: 10px #8B1E3F solid;
+}
+
+.worldhead {
+  margin-top: 10px;
+  background-image: url("https://cdn.vox-cdn.com/thumbor/aGqpkHoX_oBxCT0tBKNU3mZaLSg=/36x0:983x631/1200x800/filters:focal(36x0:983x631)/cdn.vox-cdn.com/assets/1114614/earth-russia.jpg");
+}
+.worldbody {
+  margin-top:300px;
+}
+
+.sportshead {
+  margin-top: 1000px;
+  background-image: url("https://ssl.cdn.turner.com/money/dam/assets/151130130908-harvey-mudd-campus-1280x720.jpg");
+}
+.sportsbody {
+  margin-top:-150px;
+}
+
+.businesshead {
+  margin-top: 100px;
+  background-image: url("https://piximus.net/media/11151/animal-planet-110-8.jpg");
+}
+.businessbody {
+  margin-top:-150px;
+}
+
+.techhead {
+  margin-top: 550px;
+  background-image: url("https://ocdn.eu/pulscms-transforms/1/0ctk9lMaHR0cDovL29jZG4uZXUvaW1hZ2VzL3B1bHNjbXMvTWpRN01EQV8vYzE2NTdhNzcwN2FlZDE5MDFkNzc2MmNjMzc3ODM5OGEuanBlZ5GTAs0FKACBoTAB");
+}
+.techbody {
+  margin-top:-150px;
+}
+
+.artone h2 {
+  margin-top: 50px;
+  margin-left: 500px;
+  width: 250px;
+}
+
+
+.smallart {
+  margin-left: 50px;
+  width: 300px;
+  float: left;
+  height: 75px;
+  overflow: hidden;
+  margin-top: 50px;
+}
+.smallart h4 {
+  margin: 0px;
+}
+.smallarttext {
+  margin-left: 90px;
+}
+
+.picone {
+  background-image: url("https://media1.s-nbcnews.com/j/newscms/2018_43/2621386/181027-tree-of-life-synogogue-al-1333_c9f95973533a90c49d010e7fb16acbfe.fit-560w.jpg");
+  height: 200px;
+  width: 420px;
+  margin-top: 50px;
+  margin-left: 50px;
+  background-size: 420px;
+  padding-bottom: 100px;
+}
+
+.pictwo, .picthree, .picfour, .picfive {
+  width: 75px;
+  height: 75px;
+  overflow: hidden;
+  float: left;
+}
+.pictwo img {
+  width: 170px;
+  height: 100px;
+  margin-left: -45px;
+}
+.picthree img {
+  width:auto;
+  height: auto;
+}
+.picfour img {
+width: 114px;
+height: 75px;
+margin-left: -40px;
+}
+.picfive img {
+width: 75px;
+height: 75px;
+}
+
+.spicone {
+  background-image: url("https://media.bizj.us/view/img/10776032/gettyimages-515851024*750xx8574-4823-0-446.jpg");
+  height: 200px;
+  width: 420px;
+  margin-top: 50px;
+  margin-left: 50px;
+  background-size: 420px;
+}
+.spictwo, .spicthree, .spicfour, .spicfive {
+  width: 75px;
+  height: 75px;
+  overflow: hidden;
+  float: left;
+}
+.spictwo img, .spicthree img, .spicfour img, .spicfive img {
+  height: 75px;
+}
+.spictwo img {
+  margin-left: -40px;
+}
+.spicfour img {
+  margin-left: -25px;
+}
+
+.tpicone {
+  background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/04/32/64/055844100ea200a.jpg");
+  height: 200px;
+  width: 420px;
+  margin-top: 50px;
+  margin-left: 50px;
+  background-size: 420px;
+}
+.tpictwo, .tpicthree, .tpicfour, .tpicfive {
+  height: 75px;
+  width: 75px;
+  float: left;
+  overflow: hidden;
+}
+.tpictwo img, .tpicthree img, .tpicfour img, .tpicfive img {
+  height: 75px;
+}
+.tpictwo img {
+  margin-left: -40px;
+}
+.tpicthree img {
+  margin-left: -20px;
+}
+.tpicfour img {
+  margin-left: -25px;
+}
+
+.apicone {
+  background-image: url("https://www.selectadogbreed.com/media/1157/weimaraner_puppy.jpg");
+  height: 200px;
+  width: 420px;
+  margin-top: 50px;
+  margin-left: 50px;
+  background-size: 420px;
+}
+.apictwo, .apicthree, .apicfour, .apicfive {
+  height: 75px;
+  width: 75px;
+  float: left;
+  overflow: hidden;
+}
+.apictwo img, .apicthree img, .apicfour img, .apicfive img {
+  height: 75px;
+}
+.apictwo img {
+  margin-left: -15px;
+}
+.apicfour img {
+  margin-left: -25px;
+}
+/* The Overlay (background) */
+.overlay {
+    /* Height & width depends on how you want to reveal the overlay (see JS below) */
+    width: 0;
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    background-color: rgb(0,0,0); /* Black fallback color */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
+}
+
+/* Position the content inside the overlay */
+.overlay-content {
+    position: relative;
+    width: 100%; /* 100% width */
+    text-align: center; /* Centered text/links */
+    top: 20%;
+}
+
+/* The navigation links inside the overlay */
+.overlay a {
+    padding: 0px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+/* When you mouse over the navigation links, change their color */
+.overlay a:hover, .overlay a:focus {
+    color: #f1f1f1;
+}
+
+/* Position the close button (top right corner) */
+.overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+}
+
+.thranduilion {
+  background-color: black;
+  height: 500px;
+  margin-top: 4350px;
+  position: absolute;
+  width: 100%;
+  margin-left: -143px;
+  color: white;
+  padding-left: 140px;
+}
+.thranduilion p {
+  width: 150px;
+  margin: auto;
+  margin-top: 60px;
+  float: left;
+  margin-left: 60px;
+}
+.bStyle {
+  font-size: 25px;
+  margin-top: 10px;
+}
+p.credits {
+  width: 100%;
+  padding-right: 200px!important;
+  text-align: right;
+  margin-top: 40px;
+}
